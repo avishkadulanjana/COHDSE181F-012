@@ -5,7 +5,7 @@
 <body>
 <style>
 body{
-	background-image:url(IMG_0359.jpg);
+	background-image:url(tumb.jpg);
 	font-size:30px;
 	font-style:oblique;
 	font:"Times New Roman", Times, serif;
